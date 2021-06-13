@@ -1,5 +1,5 @@
-# Image processing  ![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-
+# Image processing  
+![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 * The first step of this project is to do image processing and discover all packages and functions to do that.(done)
 * The second step is to implement a machine learning model.(In progress)
 
