@@ -14,4 +14,4 @@
 
 #### Using some algorithms: Canny's Algorithm - Adaptive threshold ...
 ![Result 2](/images/result2.PNG)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
