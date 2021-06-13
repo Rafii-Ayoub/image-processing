@@ -5,7 +5,7 @@
 
 
 ## Installation:
-> Download the ipynb file and launch your jupyter notebook  ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+>  ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)  Download the ipynb file and launch your jupyter notebook 
 
 ## First results:
 #### Using some known packages and functions for image processing.
