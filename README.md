@@ -1,4 +1,6 @@
 # Image processing
+![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 * The first step of this project is to do image processing and discover all packages and functions to do that.(done)
 * The second step is to implement a machine learning model.(In progress)
 
