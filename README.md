@@ -6,8 +6,8 @@
 > Download the ipynb file and launch your jupyter notebook
 
 ## First results:
-#### using some known packages and functions for image processing.
+#### Using some known packages and functions for image processing.
 ![Result 1](images/result1.PNG)
 
-#### using some algorithms: Canny's Algorithm - Adaptive threshold ...
+#### Using some algorithms: Canny's Algorithm - Adaptive threshold ...
 ![Result 2](/images/result2.PNG)
