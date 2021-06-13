@@ -3,10 +3,9 @@
 * The first step of this project is to do image processing and discover all packages and functions to do that.(done)
 * The second step is to implement a machine learning model.(In progress)
 
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## Installation:
-> Download the ipynb file and launch your jupyter notebook
+> Download the ipynb file and launch your jupyter notebook  ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## First results:
 #### Using some known packages and functions for image processing.
